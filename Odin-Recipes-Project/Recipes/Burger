@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Burger</title>
+</head>
+<body>
+    <h1>Burger</h1>
+    <img src="../Images/2.jpeg" alt="burger picture">
+    <h3>Ingredients</h3>
+    <ol>
+        <li>
+            Lorem ipsum
+        </li>
+        <li>
+            Lorem ipsum
+        </li>
+        <li>
+            Lorem ipsum
+        </li>
+    </ol>
+    <h3>Description</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin fermentum leo vel orci porta non.</p>
+    <h3>Steps</h3>
+    <ol>
+        <li>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </li>
+        <li>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </li>
+        <li>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </li>
+                <li>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </li>
+    </ol>
+</body>
+</html>
